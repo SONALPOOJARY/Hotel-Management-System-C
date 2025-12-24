@@ -4,7 +4,9 @@
 
 ## 1️⃣ Display Available Rooms Screen
 ![Display Available Rooms](Screenshots/display_available_room.png)
-![display_available_room.png](https://github.com\SONAL S POOJARY\OneDrive\Pictures\Screenshots\display_available_room.png)
+![display_available_room.png](https://github.com/SONAL S POOJARY\OneDrive\Pictures\Screenshots\display_available_room.png)
+<img width="802" height="386" alt="display_available_room" src="https://github.com/user-attachments/assets/3b8454a9-44fd-4890-af53-5135c9fdff65" />
+
 
 ---
 

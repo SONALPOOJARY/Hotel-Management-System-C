@@ -4,7 +4,7 @@
 
 ## 1️⃣ Display Available Rooms Screen
 ![Display Available Rooms](Screenshots/display_available_room.png)
-![Display Available Rooms]("C:\Users\SONAL S POOJARY\OneDrive\Pictures\Screenshots\display_available_room.png")
+![display_available_room.png](https://github.com\SONAL S POOJARY\OneDrive\Pictures\Screenshots\display_available_room.png)
 
 ---
 
